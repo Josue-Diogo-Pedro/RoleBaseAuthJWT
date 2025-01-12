@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fdhns6BwmTo=",
+  "dgSpecHash": "+DAX1kuaL48=",
   "success": true,
-  "projectFilePath": "/Users/josuediogopedro/Documents/dev/Angular/JwtAuth/API/API.csproj",
+  "projectFilePath": "/Users/josuediogopedro/Documents/dev/Angular/RoleBaseAuthJWT/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/josuediogopedro/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/josuediogopedro/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.0/microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josuediogopedro/Documents/dev/Angular/JwtAuth/API/API.csproj": {}
+    "/Users/josuediogopedro/Documents/dev/Angular/RoleBaseAuthJWT/API/API.csproj": {}
   },
   "projects": {
-    "/Users/josuediogopedro/Documents/dev/Angular/JwtAuth/API/API.csproj": {
+    "/Users/josuediogopedro/Documents/dev/Angular/RoleBaseAuthJWT/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josuediogopedro/Documents/dev/Angular/JwtAuth/API/API.csproj",
+        "projectUniqueName": "/Users/josuediogopedro/Documents/dev/Angular/RoleBaseAuthJWT/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/josuediogopedro/Documents/dev/Angular/JwtAuth/API/API.csproj",
+        "projectPath": "/Users/josuediogopedro/Documents/dev/Angular/RoleBaseAuthJWT/API/API.csproj",
         "packagesPath": "/Users/josuediogopedro/.nuget/packages/",
-        "outputPath": "/Users/josuediogopedro/Documents/dev/Angular/JwtAuth/API/obj/",
+        "outputPath": "/Users/josuediogopedro/Documents/dev/Angular/RoleBaseAuthJWT/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josuediogopedro/.nuget/NuGet/NuGet.Config"
