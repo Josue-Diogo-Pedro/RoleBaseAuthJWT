@@ -55,7 +55,6 @@ public class RolesController : ControllerBase
     public async Task<IActionResult> AssignRole([FromBody]RoleAssignDTO roleAssignDTO){
         
         var user = await _userManager.FindByIdAsync(roleAssignDTO.UserId);
-
         if(user is null)
             return NotFound("User not found.");
 
